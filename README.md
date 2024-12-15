@@ -1,3 +1,2 @@
 # Cpp-Projects
-1> Simple Calculator 
-2> Number Guessing Game
+Simple Calculator  Number Guessing Game
